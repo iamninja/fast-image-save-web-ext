@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Fast Image Save",
+  "version": "0.0.1",
+
+  "description": "Save images fast on cloud",
+  "icons": {
+    "48": "icons/icon48.png",
+    "96": "icons/icon96.png"
+  }
+}
