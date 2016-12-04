@@ -1,0 +1,12 @@
+html, body {
+  width: 320px;
+  height: 400px;
+}
+
+.onedrive {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: dodgerblue;
+  line-height: 1.5em;
+}

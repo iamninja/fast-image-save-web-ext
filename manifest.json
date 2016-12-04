@@ -7,5 +7,12 @@
   "icons": {
     "48": "icons/icon48.png",
     "96": "icons/icon96.png"
+  },
+
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": "icons/icon48.png",
+    "default_title": "Fast Image Save",
+    "default_popup": "popup/login_panel.html"
   }
 }
