@@ -14,5 +14,9 @@
     "default_icon": "icons/icon48.png",
     "default_title": "Fast Image Save",
     "default_popup": "popup/login_panel.html"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
   }
 }
